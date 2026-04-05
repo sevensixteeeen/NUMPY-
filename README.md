@@ -27,4 +27,6 @@ NumPy is a Python library and is written partially in Python, but most of the pa
 
 
 Youtube link: https://youtu.be/QUT1VHiLmmI
+Discription: Python NumPy tutorail 
+
 
