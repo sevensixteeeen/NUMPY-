@@ -28,6 +28,8 @@ NumPy is a Python library and is written partially in Python, but most of the pa
 
 Youtube link: https://youtu.be/QUT1VHiLmmI
 
-Discription: Python NumPy tutorail 
+Discription: Python NumPy tutorail.
+
+Learn the basics of the NumPy library in this tutorial for beginners. It provides background information on how NumPy works and how it compares to Python's Built-in lists. This video goes through how to write code with NumPy. It starts with the basics of creating arrays and then gets into more advanced stuff. The video covers creating arrays, indexing, math, statistics, reshaping, and more.
 
 
